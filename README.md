@@ -143,7 +143,7 @@
                 <img src="img/arrow-down.svg" alt="" class="arrow-down">
             </a>
         </div>
-        <div class="opacity-text">go </br>surf</div>
+        <div class="opacity-text"><div>go</div>surf</div>
         <div class="map">
             <svg width="1001" height="496" viewBox="0 0 1001 496" fill="none" xmlns="http://www.w3.org/2000/svg">
                 <g opacity="0.29827">
@@ -595,7 +595,7 @@
                             Travel Time
                         </div>
                         <div class="info-tabl__item-value">
-                            23 Hours </br> 5 Minutes
+                            <div>23 Hours</div>  5 Minutes
                         </div>
                     </div>
                     <div class="info-tabl__item">
